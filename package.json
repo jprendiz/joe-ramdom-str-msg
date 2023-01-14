@@ -1,0 +1,28 @@
+{
+  "name": "joe-ramdom-str-msg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jprendiz/joe-ramdom-str-msg.git"
+  },
+  "keywords": [],
+  "author": "Jose Prendiz <jprendiz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jprendiz/joe-ramdom-str-msg/issues"
+  },
+  "homepage": "https://github.com/jprendiz/joe-ramdom-str-msg#readme",
+  "bin": {
+    "joe-random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "user": "^0.0.0"
+  }
+}
